@@ -10,7 +10,7 @@ class Task1 {
 
         @Override
         public String toString() {
-            return "Bogdan!";
+            return "Bogdan";
         }
 
     }
