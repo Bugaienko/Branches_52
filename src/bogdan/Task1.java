@@ -6,7 +6,7 @@ Date: 28-10-2024
 /*
 
  */
-public class Bogdan {
+class Task1 {
 
         @Override
         public String toString() {
