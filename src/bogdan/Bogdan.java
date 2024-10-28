@@ -10,7 +10,7 @@ public class Bogdan {
 
         @Override
         public String toString() {
-            return "Bogdan";
+            return "Bogdan!";
         }
 
     }
