@@ -1,3 +1,5 @@
+import volkde.Person;
+
 /**
  * @author Sergey Bugaenko
  * {@code @date} 28.10.2024
