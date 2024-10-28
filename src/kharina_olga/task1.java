@@ -4,6 +4,6 @@ public class task1 {
 
     @Override
     public String toString() {
-        System.out.println("Olga Kharina");
+        return "Olga Kharina";
     }
 }
