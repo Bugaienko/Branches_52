@@ -1,14 +1,10 @@
 package Tanya;
 
 public class MyName {
+    private static final String name = "Tanya";
 
-    public MyName() {
-        String name = "Tanya";
-        System.out.println("My name is " + name);
-    }
-
-    public static void main(String[] args) {
-        MyName name = new MyName();
-
+    @Override
+    public String toString() {
+        return "MyName: " + name;
     }
 }
