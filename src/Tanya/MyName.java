@@ -6,5 +6,4 @@ public class MyName {
     public String toString() {
         return "MyName: Tanya";
     }
-
 }
